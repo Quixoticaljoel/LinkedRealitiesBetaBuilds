@@ -15,6 +15,7 @@ As a final message i hope once this game gets off the ground it will become one 
 
 Linked Realities is heavily inspired by Sword Art Online the Anime and its games, and Zenith a VRMMO that is in Development you should check out as it has a bigger production than this by far!, also inspired by IBM's SAO: The Beginning Demo back in 2016 as that is what started this idea!
 
+Video of the development up to alpha build https://www.youtube.com/watch?v=oalkkBPdG8c&t=440s (Beta is not shown and the gameplay in the video does not represent the current or final product)
 
 ![tenor](https://user-images.githubusercontent.com/75220784/113460462-c9be1f80-9410-11eb-8eb1-8be973bb6a72.gif)
 
