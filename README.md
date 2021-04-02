@@ -4,6 +4,7 @@
 ![Picture1](https://user-images.githubusercontent.com/75220784/113460518-fa05be00-9410-11eb-8806-80ff7e30c307.png)
 
 Description
+
 Linked Realities is a VRMMO inspired by the Sword Art Online Anime.
 
 This project is named "Linked Realities" due to what the game will contain, we are planning to have "worlds" like how you will see in VRChat as an example but with its own gameplay and mechanics built into each one, with this there is alot of work.
